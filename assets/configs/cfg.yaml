@@ -1,0 +1,14 @@
+modes:
+  Bearing Wear:
+    enabled: true
+    value: 0.01
+  Looseness:
+    enabled: true
+    value: 0.09
+  Misalignment:
+    enabled: true
+    value: 0.07
+  Resonance:
+    enabled: true
+    value: 0.05
+rotation_speed: 16
